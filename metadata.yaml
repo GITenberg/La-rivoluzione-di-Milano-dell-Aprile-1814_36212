@@ -1,0 +1,38 @@
+_repo: La-rivoluzione-di-Milano-dell-Aprile-1814_36212
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36212-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Armaroli, Leopoldo
+    birthdate: 1766
+    deathdate: 1843
+    gutenberg_agent_id: '38148'
+    url: http://www.gutenberg.org/2009/agents/38148
+  - agent_name: Verri, Carlo, conte
+    birthdate: 1743
+    deathdate: 1823
+    gutenberg_agent_id: '38149'
+    url: http://www.gutenberg.org/2009/agents/38149
+  editor:
+    agent_name: Casini, Tommaso
+    birthdate: 1859
+    deathdate: 1917
+    gutenberg_agent_id: '38150'
+    url: http://www.gutenberg.org/2009/agents/38150
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2011-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36212'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Milan (Italy) -- History -- Sources'
+- !lcc 'DG'
+title: La rivoluzione di Milano dell'Aprile 1814
+url: http://www.gutenberg.org/ebooks/36212
